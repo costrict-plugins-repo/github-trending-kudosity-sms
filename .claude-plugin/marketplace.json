@@ -1,0 +1,21 @@
+{
+  "name": "kudosity-claude-sms-plugin",
+  "metadata": {
+    "description": "Kudosity SMS & MMS messaging plugin for Claude Code"
+  },
+  "owner": {
+    "name": "Kudosity",
+    "email": "support@kudosity.com"
+  },
+  "plugins": [
+    {
+      "name": "kudosity-sms",
+      "description": "Send SMS and MMS messages, manage contact lists, and configure webhooks using the Kudosity messaging platform.",
+      "source": {
+        "source": "github",
+        "repo": "kudosity/kudosity-claude-sms-plugin"
+      },
+      "homepage": "https://developers.kudosity.com"
+    }
+  ]
+}
